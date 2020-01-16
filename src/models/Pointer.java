@@ -1,7 +1,4 @@
-package Pointer;
-
-import java.lang.Math;
-
+package models;
 
 public class Pointer {
 
