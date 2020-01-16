@@ -1,4 +1,4 @@
-package Rectangle;
+package models;
 
 public class Rectangle extends Shape {
 

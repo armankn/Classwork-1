@@ -1,4 +1,4 @@
-package Shape;
+package models;
 
 public abstract class Shape {
 

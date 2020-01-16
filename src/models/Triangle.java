@@ -1,4 +1,4 @@
-package Triangle;
+package models;
 
 public class Triangle extends Shape {
 
